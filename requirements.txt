@@ -1,0 +1,7 @@
+transformers
+openai
+pandas
+sqlite3
+matplotlib
+fastapi
+streamlit
